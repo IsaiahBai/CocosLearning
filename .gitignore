@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build outputs
+building/
+bin/
+obj/
+Debug/
+Release/
+out/
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.pch
+*.ipch
+*.ilk
+*.exp
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# IDE
+.idea/
+*.code-workspace
