@@ -5,7 +5,8 @@
 *.sln.docstates
 
 # Build outputs
-building/
+building/lib/
+building/engine/
 bin/
 obj/
 Debug/

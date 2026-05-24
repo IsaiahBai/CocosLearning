@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\cocosProject\test\building\CMakeFiles\5f874e97b0118d8b5f4d6257bd8ff789\SYNC_RESOURCE-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\cocosProject\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\cocosProject\test\building\CMakeFiles\SYNC_RESOURCE-test" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1B470717-AB8E-3F1D-9FAA-E74C72F62DA6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
