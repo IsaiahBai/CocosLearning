@@ -6,7 +6,6 @@
 
 # Build outputs
 building/lib/
-building/engine/
 bin/
 obj/
 Debug/
