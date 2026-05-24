@@ -1,6 +1,6 @@
 #include "AppDelegate.h"
-#include "GameBeginScene.h"
-
+#include "BeginScene.h"
+#include "FlyScene.h"
 USING_NS_CC;
 
 AppDelegate::AppDelegate() {
@@ -27,11 +27,11 @@ bool AppDelegate::applicationDidFinishLaunching() {
     auto director = Director::getInstance();
     auto glview = director->getOpenGLView();
     if(!glview) {
-        glview = GLViewImpl::createWithRect("planeGame", Rect(0, 0, 640, 960));
+        glview = GLViewImpl::createWithRect("planeGame", Rect(0, 0, 1024, 768));
         director->setOpenGLView(glview);
     }
 
-    director->getOpenGLView()->setDesignResolutionSize(640, 960, ResolutionPolicy::SHOW_ALL);
+    director->getOpenGLView()->setDesignResolutionSize(1024, 768, ResolutionPolicy::SHOW_ALL);
 
     // turn on display FPS
  //   director->setDisplayStats(true);
@@ -41,7 +41,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
 
     FileUtils::getInstance()->addSearchPath("res");
 
-	auto scene = GameBegin::createScene();
+	auto scene = BeginScene::createScene();
 
     // run
     director->runWithScene(scene);

@@ -59,7 +59,16 @@ list(APPEND GAME_SOURCE
      Classes/AppDelegate.cpp
      Classes/HelloWorldScene.cpp
      Classes/MyApp.cpp
+     Classes/BeginScene.cpp
+     Classes/Bullet.cpp
+     Classes/FlyObject.cpp
+     Classes/KeyBindingConfig.cpp
+     Classes/SetScene.cpp
      Classes/FlyScene.cpp
+     Classes/GameOverScene.cpp
+     Classes/VictoryScene.cpp
+     Classes/VideoScene.cpp
+     Classes/LevelSelectScene.cpp
      Classes/GameBeginScene.cpp
      Classes/GameScene.cpp
      )
@@ -67,7 +76,16 @@ list(APPEND GAME_HEADER
      Classes/AppDelegate.h
      Classes/HelloWorldScene.h
      Classes/MyApp.h
+     Classes/BeginScene.h
+     Classes/Bullet.h
+     Classes/FlyObject.h
+     Classes/KeyBindingConfig.h
+     Classes/SetScene.h
      Classes/FlyScene.h
+     Classes/GameOverScene.h
+     Classes/VictoryScene.h
+     Classes/VideoScene.h
+     Classes/LevelSelectScene.h
      Classes/GameBeginScene.h
      Classes/GameScene.h
      )

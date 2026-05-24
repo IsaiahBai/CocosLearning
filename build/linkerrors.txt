@@ -1,0 +1,278 @@
+================================================================================
+Linker Errors
+Generated: 2026-05-24T12:12:40.291Z
+Total Errors: 91
+================================================================================
+
+[LNK4098] (MSVC)
+默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4098] (MSVC)
+默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(chipmunk.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpArbiter.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpArray.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpBBTree.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpBody.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpCollision.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpConstraint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpDampedRotarySpring.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpDampedSpring.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpGearJoint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpGrooveJoint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpHashSet.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpPinJoint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpPivotJoint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpPolyShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpRatchetJoint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpRobust.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpRotaryLimitJoint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSimpleMotor.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSlideJoint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSpace.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSpaceComponent.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSpaceDebug.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSpaceHash.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSpaceQuery.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSpaceStep.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“chipmunk_static.pdb”(使用“libchipmunk.lib(cpSpatialIndex.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\chipmunk_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btDbvt.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btDbvtBroadphase.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btDispatcher.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btOverlappingPairCache.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btQuantizedBvh.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btActivatingCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btBoxBoxCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btBoxBoxDetector.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btCollisionDispatcher.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btCollisionObject.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btCollisionWorld.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btCompoundCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btCompoundCompoundCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConvexConcaveCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConvexConvexAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConvexPlaneCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btDefaultCollisionConfiguration.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btEmptyCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btGhostObject.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btHashedSimplePairCache.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btManifoldResult.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btSimulationIslandManager.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btSphereSphereCollisionAlgorithm.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“”(使用“libbullet.lib(btSphereTriangleCollisionAlgorithm.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btUnionFind.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(SphereTriangleDetector.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btBvhTriangleMeshShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btCollisionShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConcaveShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConvexInternalShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConvexPolyhedron.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConvexShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btOptimizedBvh.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btPolyhedralConvexShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btSphereShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btTriangleCallback.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btTriangleMeshShape.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btContinuousConvexCollision.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConvexCast.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btGjkConvexCast.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btGjkEpa2.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btGjkEpaPenetrationDepthSolver.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btGjkPairDetector.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btMinkowskiPenetrationDepthSolver.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btPersistentManifold.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btPolyhedralContactClipping.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btRaycastCallback.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btSubSimplexConvexCast.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btVoronoiSimplexSolver.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConeTwistConstraint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btGeneric6DofConstraint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btSequentialImpulseConstraintSolver.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btTypedConstraint.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btDiscreteDynamicsWorld.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btRigidBody.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btAlignedAllocator.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btConvexHullComputer.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btGeometryUtil.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btQuickprof.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
+
+[LNK4099] (MSVC)
+未找到 PDB“libbullet.pdb”(使用“libbullet.lib(btVector3.obj)”或在“D:\cocosProject\test\build\bin\test\Debug\libbullet.pdb”中寻找)；正在链接对象，如同没有调试信息一样 [D:\cocosProject\test\build\test.vcxproj]
